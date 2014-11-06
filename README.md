@@ -10,8 +10,9 @@ This is a docker image that is based on official [CentOS](https://registry.hub.d
 
 Currently, there are tags for:
 
+* CentOS 5
 * CentOS 6
 * CentOS 7
-* Latest
+* latest
 
-These match up to the existing tags in the official [CentOS](https://registry.hub.docker.com/_/centos/tags/manage/) docker image.
+These match up to the existing tags in the official [CentOS](https://registry.hub.docker.com/_/centos/tags/manage/) docker repository.
