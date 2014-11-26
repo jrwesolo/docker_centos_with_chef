@@ -2,11 +2,11 @@
 
 This is a docker image based on the official [CentOS](https://registry.hub.docker.com/_/centos/) docker image. The changes to the image are:
 
-* Time zone is set to UTC
-* Updated system using yum
-* Cleaning/Creation of yum cache
-* Installation of a few core packages
-* Installation of chef-client (latest)
+* Timezone set to UTC
+* Update system using yum
+* Create yum cache
+* Install a few core packages
+* Install chef-client (latest)
 
 Currently, there are tags for:
 
