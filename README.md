@@ -5,7 +5,7 @@ This is a docker image that is based on official [CentOS](https://registry.hub.d
 * Time zone is set to UTC
 * Updated system using yum
 * Cleaning/Creation of yum cache
-* Installation of some useful packages
+* Installation of a few useful packages
 * Installation of chef-client (latest)
 
 Currently, there are tags for:
