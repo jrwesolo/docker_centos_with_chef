@@ -1,6 +1,6 @@
 # CentOS with Chef
 
-This is a docker image that is based on official [CentOS](https://registry.hub.docker.com/_/centos/) docker image. The changes to the image are:
+This is a docker image based on the official [CentOS](https://registry.hub.docker.com/_/centos/) docker image. The changes to the image are:
 
 * Time zone is set to UTC
 * Updated system using yum
