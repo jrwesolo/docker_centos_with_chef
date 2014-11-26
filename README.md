@@ -13,5 +13,6 @@ Currently, there are tags for:
 * CentOS 5
 * CentOS 6
 * CentOS 7
+* latest
 
 These match up to the existing tags in the official [CentOS](https://registry.hub.docker.com/_/centos/tags/manage/) docker repository.
